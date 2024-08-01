@@ -44,7 +44,7 @@ h2 {
 h3 { 
     font-family: 'Poppins';
     font-weight: bold;
-    margin: 8% 10%;
+    margin: 3% 10%;
 }
 
 p {
@@ -61,7 +61,6 @@ p {
 .navbar {
     padding: 3% 5% 5% 3%;
     width: 100%;
-    z-index: 1000; 
 }
 
 .navbar-brand {
@@ -168,6 +167,15 @@ p {
     width: 100%;
     height: auto;
 }
+
+
+
+/* Film Section */
+.video {
+    padding: 5% 15%;
+}
+
+
 
 
 
