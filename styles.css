@@ -101,13 +101,11 @@ p {
     #title {
         text-align: center;
     
-
-    
     }
     
 }
 
-/* Feature Section */
+/* Feature Section
 #features {
     padding: 7% 15%;
     background-color: #fff;
@@ -127,7 +125,7 @@ p {
 
 .icon:hover{
     color: #f4ba28;
-}
+} */
 
 
 
@@ -194,26 +192,6 @@ p {
     margin: 10px;
 }
 
-
-
-
-
-
-
-
-/* CTA Section */
-#cta {
-    background-color: #047cd8;
-    color: #fff; 
-    padding: 7% 15%;
-    text-align: center;
-}
-
-.cta-heading {
-    font-family: 'Poppins';
-    font-size: 3.5rem;
-    line-height: 1.5;
-}
 
 /* Footer Section */
 #footer {
