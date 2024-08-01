@@ -172,7 +172,8 @@ p {
 
 /* Film Section */
 .video {
-    padding: 5% 15%;
+    width: 100%;
+    height: auto;
 }
 
 
