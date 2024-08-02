@@ -1,0 +1,124 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 100%;
+}
+
+
+.container-fluid {
+    padding: 2% 2%;
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size:  4rem;
+    line-height: 1.5;
+    color: #000000;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size:  2.5 rem;
+    color: #000000;
+    margin: 3% 10%;
+}
+
+h3 { 
+    font-family: 'Poppins';
+    font-weight: bold;
+    margin: 8% 10%;
+}
+
+p {
+    color: #000000;
+    text-align: left;
+    margin-top: 20px;
+    margin: 5% 10%;
+    font-size: 1.5rem;
+}
+
+
+
+/* Navigation Bar */
+.navbar {
+    padding: 3% 5%;
+    width: 100%;
+    z-index: 1000; 
+}
+
+.navbar-brand {
+    font-family: 'Domine';
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.navbar-item {
+    padding: 0 0 10px;
+}
+
+.nav-link {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+
+.icon{
+    color: #ffffff;
+    margin-bottom: 1rem;
+}
+
+.icon:after{
+    color: #f4ba28;
+}
+
+
+
+/* uncertainty section */
+#uncertainty{
+    text-align: center;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1); 
+    background-size: 100%, 100%;
+}
+
+.uncertainty-photo {
+    width: 50%;
+    height: auto;
+}
+
+
+
+
+/* Footer Section */
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #000000;
+}
+
+.footer-text{
+    color:#ffffff;
+}
+.footer-icon {
+    margin: 10px 20px;
+}
+
+.footer-link:active{
+    color: rgb(255, 255, 255);
+}
+
+.footer-link:visited{
+    color: rgb(255, 255, 255);
+}
+
+.footer-link:link{
+    color: rgb(255, 255, 255);
+}
+
