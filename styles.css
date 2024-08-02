@@ -82,15 +82,6 @@ p {
 
 
 
-/* Down Arrow */
-.down-arrow {
-    position: absolute;
-    bottom: 50px;
-    left: 50%;
-    color: #fff;
-}
-
-
 
 @media (max-width: 1028px) {
     #title {
