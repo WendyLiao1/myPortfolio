@@ -17,6 +17,7 @@ section {
     align-items: center;
     text-align: center;
     position: relative;
+    font-family: 'Poppins'
 }
 
 .container-fluid {
@@ -77,7 +78,7 @@ p {
 
 
 /* Download Button */
-.rbtn-resume {
+.btn-resume {
     margin: 5% 5%;
 }
 
