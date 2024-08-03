@@ -37,6 +37,7 @@ h1 {
     color: #fff;
 }
 
+
 h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -96,10 +97,6 @@ p {
 .icon{
     color: #ffffff;
     margin-bottom: 1rem;
-}
-
-.icon:after{
-    color: #f4ba28;
 }
 
 
@@ -217,6 +214,14 @@ p {
     display: none; 
     overflow: hidden;
     padding: 0 15%;
+}
+
+
+
+/* hover effect */
+h1:hover,
+h2:hover {
+    color: #eac90a;
 }
 
 
