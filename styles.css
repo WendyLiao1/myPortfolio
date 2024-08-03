@@ -193,8 +193,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center; 
-    width: 50%;
-    height: auto;
 }
 
 
@@ -222,8 +220,7 @@ p {
 h1:hover,
 h2:hover {
     color: #eac90a;
-}
-
+} 
 
 
 
