@@ -127,6 +127,7 @@ p {
 .CAD-item {
     width: 48%;
     margin-bottom: 20px;
+    background-color: #000000ab;
 }
 
 .CAD-title {
