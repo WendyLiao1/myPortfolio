@@ -194,10 +194,7 @@ p {
 .video-container {
     display: flex;
     justify-content: center;
-    align-items: center;
-    max-width: 720px;
-    height: auto;
-    
+    align-items: center; 
 }
 
 
@@ -216,7 +213,7 @@ p {
 .content {
     display: none; 
     overflow: hidden;
-    padding: 0 15px;
+    padding: 0 15%;
 }
 
 
