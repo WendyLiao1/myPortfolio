@@ -169,8 +169,10 @@ p {
 
 .photography-image {
     width: 45%;
+    max-width: 500px;
     height: auto;
     margin: 10px;
+    object-fit: cover
 }
 
 
@@ -205,6 +207,7 @@ p {
     cursor: pointer;
     text-align: center;
     outline: none;
+    margin: 10px;
 }
 
 .content {
