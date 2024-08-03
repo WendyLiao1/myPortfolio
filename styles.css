@@ -127,7 +127,6 @@ p {
 .CAD-item {
     width: 48%;
     margin-bottom: 20px;
-    background-color: #000000ab;
 }
 
 .CAD-title {
@@ -160,6 +159,13 @@ p {
 .carousel-control-next-icon {
     filter: invert(1); 
     background-size: 100%, 100%;
+}
+
+.carousel-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000b1; 
 }
 
 .photography-title {
