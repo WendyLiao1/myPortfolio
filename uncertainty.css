@@ -105,6 +105,8 @@ p {
 
 .footer-text {
     color: #ffffff;
+    text-align: center;
+    font-size: 10px;
 }
 .footer-icon {
     margin: 10px 20px;
