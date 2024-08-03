@@ -89,11 +89,8 @@ p {
 }
 
 .uncertainty-photo {
-    width: 60%;
-    max-width: 600px;
+    width: 45%;
     height: auto;
-    margin: 10px;
-    object-fit: cover;
 }
 
 
