@@ -115,7 +115,7 @@ p {
 
 .footer-icon {
     display: flex;
-    margin: 10px 20px 0px;
+    margin: 0px 20px;
     align-items: center;
     justify-content: center;
 }
