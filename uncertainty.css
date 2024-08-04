@@ -104,11 +104,12 @@ p {
 }
 
 .footer-text {
-    color: #ffffff;
-    font-size: 15px;
+    color: #8f8f8f;
+    font-size: 16px;
 }
+
 .footer-icon {
-    margin: 10px 20px 2px 20px;
+    margin: 10px 20px 2px;
 }
 
 .footer-link:active{
