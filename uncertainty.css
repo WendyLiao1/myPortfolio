@@ -114,7 +114,10 @@ p {
 }
 
 .footer-icon {
+    display: flex;
     margin: 10px 20px 2px;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-link:active{
